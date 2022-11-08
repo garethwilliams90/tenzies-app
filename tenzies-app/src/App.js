@@ -92,7 +92,7 @@ export default function App() {
     
     return (
         <main>
-            {tenzies && <Confetti />}
+            {tenzies && <Confetti className="confetti"/>}
             <div className="navbar">
                 <Score 
                     rollCount={rollCount}
