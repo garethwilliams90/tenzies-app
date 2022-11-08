@@ -5,7 +5,7 @@ export default function SocialIcons() {
 
     return (
         <div className="icons">
-            <a href="https://github.com/garethwilliams90/Tenzies" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/garethwilliams90/tenzies-app/tree/main/tenzies-app" target="_blank" rel="noopener noreferrer">
                 <img className="gitHub-icon icon" 
                     src="https://cdn-icons-png.flaticon.com/512/25/25231.png" 
                     alt="GitHub">   
